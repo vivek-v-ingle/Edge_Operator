@@ -23,7 +23,7 @@ Windows is not currently supported. If required, use Ubuntu through WSL2.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/S4851211/Edge_Operator.git
+git clone https://github.com/vivek-v-ingle/Edge_Operator.git
 
 cd Edge_Operator
 ```
